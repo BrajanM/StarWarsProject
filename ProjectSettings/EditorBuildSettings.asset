@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/MainGameMenu.unity
+    guid: eac4228c80440a4499cf2441adb74098
+  - enabled: 1
+    path: Assets/Xwing/Scenes/XMenu.unity
+    guid: 348f0021a30117648b0b60b7a22902ed
+  - enabled: 1
+    path: Assets/Xwing/Scenes/lvl1.unity
+    guid: 9a0992bca07b7ce4893a7c2028541e9f
+  - enabled: 1
+    path: Assets/Xwing/Scenes/lvl2_hoth.unity
+    guid: e14e2bba9872d544494d958b1ccd31cb
+  - enabled: 0
+    path: Assets/Mase/Maze assets/1.unity
+    guid: 19ebdba875888e449b27c8e93bbb4abc
+  - enabled: 0
+    path: Assets/Mase/Maze assets/2.unity
+    guid: 6de7d7e476102f14ea6773f474f92edd
+  - enabled: 0
+    path: Assets/Mase/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Memory/Scenes/SampleScene.unity
+    guid: 95bcf893bef947c4296f6a59291e6c3f
+  - enabled: 0
+    path: Assets/Quiz/MaterialUI/StarterScene.unity
+    guid: 098dffa5c4addbe45bd97262b5dbbfe7
+  - enabled: 1
+    path: Assets/Mase/finalScene.unity
+    guid: c12da5513e5fa9444afb9da708d51473
+  - enabled: 1
+    path: Assets/Mase/scene1.unity
+    guid: cca5a6bbab17f4d4383b9d578cabcf13
+  - enabled: 1
+    path: Assets/Mase/scene2.unity
+    guid: 3620ed5505488924a8eddbf2c1519e93
+  - enabled: 1
+    path: Assets/Mase/scene3.unity
+    guid: 691e87cf6796dcd4bbb50904a8479afc
+  - enabled: 1
+    path: Assets/Mase/scene4.unity
+    guid: 4c87767a39231e94e849c2c50fdd377f
+  - enabled: 1
+    path: Assets/Mase/scene5.unity
+    guid: cc0bedbb5cb39d446afe5f59e80de654
+  - enabled: 1
+    path: Assets/Mase/scene6.unity
+    guid: 6054f6cece9b4234c8a22d8cd840e2fc
+  - enabled: 1
+    path: Assets/Quiz/Scenes/Game.unity
+    guid: d80cead85e217f54ca0cc60ea1317312
+  - enabled: 1
+    path: Assets/Quiz/Scenes/GameOverScene.unity
+    guid: 7b654593a53d950428c1b62f6168e83d
+  - enabled: 1
+    path: Assets/Quiz/Scenes/menuScene.unity
+    guid: 525fbb07985542845aa27f14332cbfa9
+  - enabled: 1
+    path: Assets/Quiz/Scenes/MiddleScene.unity
+    guid: 46e7bed710548a944a9456d46eec39dd
+  - enabled: 1
+    path: Assets/Snake/Scenes/MainMenu.unity
+    guid: a5e15c94136764e42b2bf218dab33108
+  - enabled: 1
+    path: Assets/Snake/Scenes/GameScene.unity
+    guid: 91781b2c0d47ffb478c8f24bcfe1b796
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/StatView.unity
+    guid: f623e8a30b3818746bf19b95ccc1df63
